@@ -1,7 +1,7 @@
 AMAZE BASKET- Your ne stop solution for all your groceries and Daily Needs
 
 
-
+			
 
 SHOP AS PER YOUR NEED.
 
