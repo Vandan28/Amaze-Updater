@@ -1,7 +1,7 @@
-AMAZE BASKET- Your one stop solution for all your groceries and Daily Needs
+#AMAZE BASKET- Your one stop solution for all your groceries and Daily Needs
 
 
-Shop as per your needs - Amaze Deliveries with no minimum order value
+#Shop as per your needs - Amaze Deliveries with no minimum order value
 
 Scheduled Deliveries - Order what you need & we take care of your daily needs, everyday !!
 
