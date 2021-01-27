@@ -1,14 +1,17 @@
 AMAZE BASKET
 
-SHOP AS PER YOUR NEED.
+
+
+
+SHOP AS PER YOUR NEED./n
 Amaze Deliveries with no minimum order value.
 
 
-SCHEDULED DELIVERIES
+SCHEDULED DELIVERIES/n
 Order what you need & we take care of your daily needs, everyday !!
 
 
-ON TIME
+ON TIME/n
 Order by midnight, get by 7 am.
 
 
